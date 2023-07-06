@@ -1,0 +1,1 @@
+An educational application that reads the screen size while pressing the button and displays an alert with this data.
